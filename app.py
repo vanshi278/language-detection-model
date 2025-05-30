@@ -39,7 +39,7 @@ st.write("Enter text to detect its language")
 
 input_test = st.text_area(
     "Text Input",
-    value='Hello my name is Samarth.',
+    value='Hellooooo...Vanshu here!',
     height=100,
     key="text_input"
 )
