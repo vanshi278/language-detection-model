@@ -1,0 +1,12 @@
+# Ignore virtual environment folders
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+# Ignore model files if you don't want to push them
+# model.pckl
+# Ignore data files if you don't want to push them
+# Language Detection.csv
